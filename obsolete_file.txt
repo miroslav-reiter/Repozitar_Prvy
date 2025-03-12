@@ -1,0 +1,7 @@
+This is an obsolete file that is no longer needed in the repository.
+
+Please note that this file contains outdated information and should be removed.
+
+Date of last update: 2025-03-11
+
+For future reference, the relevant data is now located in "AIS\new_file.txt".
